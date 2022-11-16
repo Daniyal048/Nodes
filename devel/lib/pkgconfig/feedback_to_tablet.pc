@@ -1,0 +1,8 @@
+prefix=/home/daniyal/ROS_node/devel
+
+Name: feedback_to_tablet
+Description: Description of feedback_to_tablet
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

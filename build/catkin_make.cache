@@ -1,0 +1,2 @@
+feedback_to_tablet
+-DCATKIN_DEVEL_PREFIX=/home/daniyal/ROS_node/devel -DCMAKE_INSTALL_PREFIX=/home/daniyal/ROS_node/install -G Unix Makefiles
